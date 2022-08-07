@@ -5,7 +5,7 @@ This is a project that was done as a final work of the subject "Interactive Prog
 
 
 
-Colaborators:
+contributors:
 - Mauricio Castro
 - Laura Arana
 - Alejandro Mercado
